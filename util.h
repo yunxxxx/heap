@@ -1,6 +1,4 @@
-/* CSE310
- * Homework3
- * Yuan Bo  1220397048
+/* 
  *
  * untl.h is a header file for the untl.cpp
  *
