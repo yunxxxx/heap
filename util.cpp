@@ -1,6 +1,4 @@
-/* CSE310
- * Homework3
- * Yuan Bo  1220397048
+/* 
  *
  * unil.cpp will save the function of the "nextCommand"
  *
