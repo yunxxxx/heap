@@ -1,6 +1,4 @@
-/* CSE310
- * Homework3
- * Yuan Bo  1220397048
+/* 
  *
  * heap.cpp is a class that creat heap and element
  *
