@@ -1,7 +1,5 @@
 
-/* CSE310
- * Homework3
- * Yuan Bo  1220397048
+/* 
  *
  * This is the 3rd assignment of CSE310
  * This is a function about heap
