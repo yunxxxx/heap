@@ -1,6 +1,4 @@
-/* CSE310
- * Homework3
- * Yuan Bo  1220397048
+/* 
  *
  * heap.h is a header file for the head.cpp
  *
