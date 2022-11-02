@@ -1,7 +1,5 @@
 
-/* 
- *
- * This is the 3rd assignment of CSE310
+/*
  * This is a function about heap
  * Use guide will be find in the file "README.txt"
  * The input file will be name as "HEAPinput.txt:"
